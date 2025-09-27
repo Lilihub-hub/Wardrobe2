@@ -18772,5 +18772,23 @@
             {"id":10451, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10512, "zone":"waistToKnee", "category":"pants", "security":"cf4c18617980cc42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10512, "colors":["white"]},
+            {"id":10513, "colors":["black"]},
+            {"id":10514, "colors":["brown"]},
+            {"id":10515, "colors":["orange"]},
+            {"id":10516, "colors":["yellow"]},
+            {"id":10517, "colors":["green"]},
+            {"id":10518, "colors":["blue"]},
+            {"id":10519, "colors":["purple"]},
+            {"id":10520, "colors":["red"]},
+            {"id":10521, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }   
 ]
