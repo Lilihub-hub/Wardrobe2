@@ -18790,5 +18790,23 @@
             {"id":10521, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    }   
+    },
+      {
+        "groupId":10452, "zone":"waistToKnee", "category":"skirt", "security":"cf4c18617980cc42", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10452, "colors":["blue"]},
+            {"id":10453, "colors":["black"]},
+            {"id":10454, "colors":["brown"]},
+            {"id":10455, "colors":["orange"]},
+            {"id":10456, "colors":["yellow"]},
+            {"id":10457, "colors":["blue"]},
+            {"id":10458, "colors":["red"]},
+            {"id":10459, "colors":["green"]},
+            {"id":10460, "colors":["purple"]},
+            {"id":10461, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    }
 ]
