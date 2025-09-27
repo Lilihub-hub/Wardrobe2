@@ -18629,7 +18629,8 @@
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
-          "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
+      {
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
         "name":"Top",
         "outfitName":"Faience of Mustiers",
         "variations":[
@@ -18645,5 +18646,22 @@
             {"id":10471, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    } 
+    },
+          "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bodice",
+        "outfitName":"Neo-victorian",
+        "variations":[
+            {"id":2693, "colors":["brown"]},
+            {"id":2694, "colors":["grey"]},
+            {"id":2695, "colors":["pink"]},
+            {"id":2696, "colors":["black"]},
+            {"id":2697, "colors":["brown"]},
+            {"id":2698, "colors":["red"]},
+            {"id":2699, "colors":["purple"]},
+            {"id":26100, "colors":["green"]},
+            {"id":26101, "colors":["white"]},
+            {"id":26102, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    }
 ]
