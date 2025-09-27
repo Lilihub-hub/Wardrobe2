@@ -18700,5 +18700,23 @@
             {"id":1929, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
-    }
+    },
+    {
+        "groupId":1639, "zone":"torso_waistToKnee", "category":"underwear", "security":"7a9f111f06d56936", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Body blouse",
+        "outfitName":"Future enhancement",
+        "variations":[
+            {"id":1639, "colors":["black"]},
+            {"id":1640, "colors":["green"]},
+            {"id":1641, "colors":["purple"]},
+            {"id":1642, "colors":["pink"]},
+            {"id":1643, "colors":["brown"]},
+            {"id":1644, "colors":["grey"]},
+            {"id":1645, "colors":["orange"]},
+            {"id":1646, "colors":["green"]},
+            {"id":1647, "colors":["green"]},
+            {"id":1648, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    }    
 ]
