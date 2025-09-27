@@ -18581,15 +18581,33 @@
         "outfitName":"Porcelain of provence",
         "variations":[
             {"id":10532, "colors":["yellow"]},
-            {"id":10543, "colors":["black"]},
-            {"id":10544, "colors":["brown"]},
-            {"id":10545, "colors":["orange"]},
-            {"id":10546, "colors":["yellow"]},
-            {"id":10547, "colors":["green"]},
-            {"id":10548, "colors":["blue"]},
-            {"id":10549, "colors":["purple"]},
-            {"id":10550, "colors":["red"]},
+            {"id":10533, "colors":["black"]},
+            {"id":10534, "colors":["brown"]},
+            {"id":10535, "colors":["orange"]},
+            {"id":10536, "colors":["yellow"]},
+            {"id":10537, "colors":["green"]},
+            {"id":10538, "colors":["blue"]},
+            {"id":10539, "colors":["purple"]},
+            {"id":10540, "colors":["red"]},
             {"id":10551, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    },
+    {
+        "groupId":10482, "zone":"face", "category":"earring", "security":"2faadf7b1974f9c7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10482, "colors":["yellow"]},
+            {"id":10483, "colors":["black"]},
+            {"id":10484, "colors":["brown"]},
+            {"id":10485, "colors":["orange"]},
+            {"id":10486, "colors":["white"]},
+            {"id":10487, "colors":["blue"]},
+            {"id":10488, "colors":["red"]},
+            {"id":10489, "colors":["green"]},
+            {"id":10490, "colors":["purple"]},
+            {"id":10491, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     }
