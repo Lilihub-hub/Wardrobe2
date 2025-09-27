@@ -18540,7 +18540,7 @@
         "releaseDate":"2025-09-26"
     },
   {
-        "groupId":1277, "zone":"head", "category":"wig", "security":"2f016728ab4a0a22", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":1277, "zone":"head", "category":"wig", "security":"2f016728ab4a0a22", "multiLayered":true, "layerBehavior":"normal",
         "name":"Wig",
         "outfitName":"Hololove",
         "variations":[
