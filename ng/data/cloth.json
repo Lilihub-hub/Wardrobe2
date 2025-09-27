@@ -18617,16 +18617,33 @@
         "outfitName":"Porcelain of provence",
         "variations":[
             {"id":10522, "colors":["white"]},
-            {"id":10533, "colors":["black"]},
-            {"id":10534, "colors":["brown"]},
-            {"id":10535, "colors":["orange"]},
-            {"id":10536, "colors":["yellow"]},
-            {"id":10537, "colors":["green"]},
-            {"id":10538, "colors":["blue"]},
-            {"id":10539, "colors":["purple"]},
-            {"id":10540, "colors":["red"]},
-            {"id":10551, "colors":["pink"]}
+            {"id":10523, "colors":["black"]},
+            {"id":10524, "colors":["brown"]},
+            {"id":10525, "colors":["orange"]},
+            {"id":10526, "colors":["yellow"]},
+            {"id":10527, "colors":["green"]},
+            {"id":10528, "colors":["blue"]},
+            {"id":10529, "colors":["purple"]},
+            {"id":10530, "colors":["red"]},
+            {"id":10531, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    }
+    },
+          "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10462, "colors":["white"]},
+            {"id":10463, "colors":["black"]},
+            {"id":10464, "colors":["brown"]},
+            {"id":10465, "colors":["orange"]},
+            {"id":10466, "colors":["yellow"]},
+            {"id":10467, "colors":["blue"]},
+            {"id":10468, "colors":["red"]},
+            {"id":10469, "colors":["green"]},
+            {"id":10470, "colors":["purple"]},
+            {"id":10471, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    } 
 ]
