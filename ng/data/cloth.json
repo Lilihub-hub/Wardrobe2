@@ -18610,5 +18610,23 @@
             {"id":10491, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10522, "zone":"torso", "category":"top", "security":"945ce60afc00bc6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blouse",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10522, "colors":["white"]},
+            {"id":10533, "colors":["black"]},
+            {"id":10534, "colors":["brown"]},
+            {"id":10535, "colors":["orange"]},
+            {"id":10536, "colors":["yellow"]},
+            {"id":10537, "colors":["green"]},
+            {"id":10538, "colors":["blue"]},
+            {"id":10539, "colors":["purple"]},
+            {"id":10540, "colors":["red"]},
+            {"id":10551, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
