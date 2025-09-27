@@ -18754,5 +18754,23 @@
             {"id":10481, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    }    
+    },
+       {
+        "groupId":10442, "zone":"arms", "category":"armAccessory", "security":"dbff2a4d659447ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bracelet",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10442, "colors":["yellow"]},
+            {"id":10443, "colors":["black"]},
+            {"id":10444, "colors":["brown"]},
+            {"id":10445, "colors":["orange"]},
+            {"id":10446, "colors":["white"]},
+            {"id":10447, "colors":["blue"]},
+            {"id":10448, "colors":["red"]},
+            {"id":10449, "colors":["green"]},
+            {"id":10450, "colors":["purple"]},
+            {"id":10451, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    }   
 ]
