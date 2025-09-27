@@ -18826,5 +18826,23 @@
             {"id":10501, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
-    }    
+    },
+      {
+        "groupId":10432, "zone":"feet", "category":"shoes", "security":"b2113be159206405", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Espadrilles",
+        "outfitName":"Faience of Mustiers",
+        "variations":[
+            {"id":10432, "colors":["brown"]},
+            {"id":10433, "colors":["black"]},
+            {"id":10434, "colors":["white"]},
+            {"id":10435, "colors":["orange"]},
+            {"id":10436, "colors":["yellow"]},
+            {"id":10437, "colors":["blue"]},
+            {"id":10438, "colors":["red"]},
+            {"id":10439, "colors":["green"]},
+            {"id":10440, "colors":["purple"]},
+            {"id":10441, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
+    }
 ]
