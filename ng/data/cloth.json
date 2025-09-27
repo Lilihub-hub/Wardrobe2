@@ -18574,5 +18574,23 @@
             {"id":10551, "colors":["pink"]}
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":10532, "zone":"face", "category":"earring", "security":"fc49a16c24d93063", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Porcelain of provence",
+        "variations":[
+            {"id":10532, "colors":["yellow"]},
+            {"id":10543, "colors":["black"]},
+            {"id":10544, "colors":["brown"]},
+            {"id":10545, "colors":["orange"]},
+            {"id":10546, "colors":["yellow"]},
+            {"id":10547, "colors":["green"]},
+            {"id":10548, "colors":["blue"]},
+            {"id":10549, "colors":["purple"]},
+            {"id":10550, "colors":["red"]},
+            {"id":10551, "colors":["pink"]}
+        ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
+        "releaseDate":"2025-09-26"
     }
 ]
