@@ -18520,5 +18520,23 @@
             {"id":10865, "colors":["brown"], "variationNumber":10}
         ], "criteria":{"type":"pack", "info":"Pawfect Fit", "text":"Desbloqueado en el Pack exclusivo\nPawfect Fit"},
         "releaseDate":"2025-09-03"
+    },
+  {
+        "groupId":1790, "zone":"head", "category":"hats", "security":"590f1f1662a433ff", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Crown",
+        "outfitName":"Flowerly",
+        "variations":[
+            {"id":1790, "colors":["yellow"]},
+            {"id":1791, "colors":["pink"]},
+            {"id":1792, "colors":["purple"]},
+            {"id":1793, "colors":["blue"]},
+            {"id":1794, "colors":["white"]},
+            {"id":1795, "colors":["black"]},
+            {"id":1796, "colors":["grey"]},
+            {"id":1797, "colors":["green"]},
+            {"id":1798, "colors":["brown"]},
+            {"id":1799, "colors":["yellow"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
     }
 ]
