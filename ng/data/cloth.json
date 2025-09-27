@@ -18630,7 +18630,7 @@
         "releaseDate":"2025-09-26"
     },
       {
-        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":10462, "zone":"torso", "category":"top", "security":"b96e6655c49a740a", "multiLayered":true, "layerBehavior":"normal",
         "name":"Top",
         "outfitName":"Faience of Mustiers",
         "variations":[
