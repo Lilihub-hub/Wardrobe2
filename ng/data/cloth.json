@@ -18659,9 +18659,9 @@
             {"id":2697, "colors":["brown"]},
             {"id":2698, "colors":["red"]},
             {"id":2699, "colors":["purple"]},
-            {"id":26100, "colors":["green"]},
-            {"id":26101, "colors":["white"]},
-            {"id":26102, "colors":["blue"]}
+            {"id":2700, "colors":["green"]},
+            {"id":2701, "colors":["white"]},
+            {"id":2702, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
     },
