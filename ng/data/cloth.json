@@ -18647,7 +18647,8 @@
         ], "criteria":{"type":"episode", "info":"20", "text":"Desbloqueado en el episodio 20"},
         "releaseDate":"2025-09-26"
     },
-          "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
+      {
+        "groupId":2693, "zone":"torso", "category":"top", "security":"93db83571c31d42f", "multiLayered":false, "layerBehavior":"normal",
         "name":"Bodice",
         "outfitName":"Neo-victorian",
         "variations":[
@@ -18661,6 +18662,24 @@
             {"id":26100, "colors":["green"]},
             {"id":26101, "colors":["white"]},
             {"id":26102, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-09-26"
+    },
+      {
+        "groupId":1499, "zone":"torso", "category":"top", "security":"9d08bd488b9d1251", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"What the...?",
+        "variations":[
+            {"id":1499, "colors":["brown"]},
+            {"id":1500, "colors":["grey"]},
+            {"id":1501, "colors":["pink"]},
+            {"id":1502, "colors":["black"]},
+            {"id":1503, "colors":["brown"]},
+            {"id":1504, "colors":["red"]},
+            {"id":1505, "colors":["purple"]},
+            {"id":1506, "colors":["green"]},
+            {"id":1507, "colors":["white"]},
+            {"id":1508, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-09-26"
     }
