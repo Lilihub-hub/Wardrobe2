@@ -18990,7 +18990,7 @@
         "releaseDate":"2025-10-21"
     },
     {
-        "groupId":11057, "zone":"general", "category":"other", "security":"51ff6e152b1573d9", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":11057, "zone":"general", "category":"other", "security":"51ff6e152b1573d9", "multiLayered":true, "layerBehavior":"normal",
         "name":"Raven",
         "outfitName":"The Silent Passer",
         "variations":[
