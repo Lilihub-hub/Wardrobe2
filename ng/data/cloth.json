@@ -18988,5 +18988,23 @@
             {"id":11026, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
-    }    
+    },
+    {
+        "groupId":11057, "zone":"general", "category":"other", "security":"51ff6e152b1573d9", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Raven",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11057, "colors":["black"]},
+            {"id":11038, "colors":["white"]},
+            {"id":11039, "colors":["green"]},
+            {"id":11040, "colors":["brown"]},
+            {"id":11041, "colors":["red"]},
+            {"id":11042, "colors":["orange"]},
+            {"id":11043, "colors":["purple"]},
+            {"id":11044, "colors":["blue"]},
+            {"id":11045, "colors":["grey"]},
+            {"id":11046, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    }  
 ]
