@@ -18952,5 +18952,23 @@
             {"id":11006, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
-    }
+    },
+        {
+        "groupId":11007, "zone":"waistToKnee", "category":"pants", "security":"f225ce75b0a20bcb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11007, "colors":["black"]},
+            {"id":11008, "colors":["white"]},
+            {"id":11009, "colors":["green"]},
+            {"id":11010, "colors":["brown"]},
+            {"id":11011, "colors":["red"]},
+            {"id":11012, "colors":["orange"]},
+            {"id":11013, "colors":["purple"]},
+            {"id":11014, "colors":["blue"]},
+            {"id":11015, "colors":["grey"]},
+            {"id":11016, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    }   
 ]
