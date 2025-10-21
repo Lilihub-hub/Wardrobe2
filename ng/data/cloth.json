@@ -18864,7 +18864,7 @@
         "releaseDate":"2025-09-26"
     },
         {
-        "groupId":11047, "zone":"head", "category":"hat", "security":"4468d7607d36aca1", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":11047, "zone":"head", "category":"hat", "security":"4468d7607d36aca1", "multiLayered":true, "layerBehavior":"normal",
         "name":"Hood",
         "outfitName":"The Silent Passer",
         "variations":[
