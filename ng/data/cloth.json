@@ -18898,5 +18898,23 @@
             {"id":11036, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11037, "zone":"torso", "category":"jacket", "security":"621324d00ce10627", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Cape",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11037, "colors":["black"]},
+            {"id":11038, "colors":["white"]},
+            {"id":11039, "colors":["green"]},
+            {"id":11040, "colors":["brown"]},
+            {"id":11041, "colors":["red"]},
+            {"id":11042, "colors":["orange"]},
+            {"id":11043, "colors":["purple"]},
+            {"id":11044, "colors":["blue"]},
+            {"id":11045, "colors":["grey"]},
+            {"id":11046, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
     }
 ]
