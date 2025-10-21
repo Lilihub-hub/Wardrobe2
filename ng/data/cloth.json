@@ -18934,5 +18934,23 @@
             {"id":10996, "colors":["purple"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":10997, "zone":"arms", "category":"bag", "security":"1ee9f7791e65ddef", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scythe",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10997, "colors":["black"]},
+            {"id":10998, "colors":["white"]},
+            {"id":10999, "colors":["green"]},
+            {"id":11000, "colors":["brown"]},
+            {"id":11001, "colors":["red"]},
+            {"id":11002, "colors":["orange"]},
+            {"id":11003, "colors":["purple"]},
+            {"id":11004, "colors":["blue"]},
+            {"id":11005, "colors":["grey"]},
+            {"id":11006, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
     }
 ]
