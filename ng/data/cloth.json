@@ -18970,5 +18970,23 @@
             {"id":11016, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
-    }   
+    },
+        {
+        "groupId":11017, "zone":"feet", "category":"shoes", "security":"5d12f4b2742be538", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11017, "colors":["black"]},
+            {"id":11018, "colors":["white"]},
+            {"id":11019, "colors":["green"]},
+            {"id":11020, "colors":["brown"]},
+            {"id":11021, "colors":["red"]},
+            {"id":11022, "colors":["orange"]},
+            {"id":11023, "colors":["purple"]},
+            {"id":11024, "colors":["blue"]},
+            {"id":11025, "colors":["grey"]},
+            {"id":11026, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
+    }    
 ]
