@@ -18880,5 +18880,23 @@
             {"id":11056, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":11027, "zone":"torso", "category":"top", "security":"5ad50eaef7b6fca5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":11027, "colors":["black"]},
+            {"id":11028, "colors":["white"]},
+            {"id":11029, "colors":["green"]},
+            {"id":11030, "colors":["brown"]},
+            {"id":11031, "colors":["red"]},
+            {"id":11032, "colors":["orange"]},
+            {"id":11033, "colors":["purple"]},
+            {"id":11034, "colors":["blue"]},
+            {"id":11035, "colors":["grey"]},
+            {"id":11036, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
     }
 ]
