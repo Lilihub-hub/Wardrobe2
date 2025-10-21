@@ -18916,5 +18916,23 @@
             {"id":11046, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
+    },
+        {
+        "groupId":10987, "zone":"arms", "category":"gloves", "security":"bb278389920de1b9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Gloves",
+        "outfitName":"The Silent Passer",
+        "variations":[
+            {"id":10987, "colors":["white"]},
+            {"id":10988, "colors":["brown"]},
+            {"id":10989, "colors":["grey"]},
+            {"id":10990, "colors":["orange"]},
+            {"id":10991, "colors":["green"]},
+            {"id":10992, "colors":["black"]},
+            {"id":10993, "colors":["blue"]},
+            {"id":10994, "colors":["pink"]},
+            {"id":10995, "colors":["red"]},
+            {"id":10996, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-21"
     }
 ]
