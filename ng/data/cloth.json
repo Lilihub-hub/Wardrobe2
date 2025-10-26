@@ -19024,5 +19024,23 @@
             {"id":10208, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-09"
-    }
+    },
+     {
+        "groupId":10189, "zone":"torso_waistToKnee", "category":"dress", "security":"fff4151858dc3bc2", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10189, "colors":["green"]},
+            {"id":10190, "colors":["blue"]},
+            {"id":10191, "colors":["pink"]},
+            {"id":10192, "colors":["black"]},
+            {"id":10193, "colors":["white"]},
+            {"id":10194, "colors":["brown"]},
+            {"id":10195, "colors":["purple"]},
+            {"id":10196, "colors":["yellow"]},
+            {"id":10197, "colors":["green"]},
+            {"id":10198, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    }   
 ]
