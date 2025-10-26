@@ -19060,5 +19060,23 @@
             {"id":10218, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-09"
+    },
+      {
+        "groupId":10179, "zone":"feet", "category":"shoes", "security":"ca39e965860745c0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10179, "colors":["green"]},
+            {"id":10180, "colors":["blue"]},
+            {"id":10181, "colors":["pink"]},
+            {"id":10182, "colors":["black"]},
+            {"id":10183, "colors":["white"]},
+            {"id":10184, "colors":["brown"]},
+            {"id":10185, "colors":["purple"]},
+            {"id":10186, "colors":["yellow"]},
+            {"id":10187, "colors":["green"]},
+            {"id":10188, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
     }    
 ]
