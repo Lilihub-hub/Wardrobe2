@@ -19096,5 +19096,23 @@
             {"id":10168, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-09"
-    }
+    },
+      {
+        "groupId":10169, "zone":"general", "category":"other", "security":"e4233df258ed1a9b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Creature",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10169, "colors":["green"]},
+            {"id":10170, "colors":["blue"]},
+            {"id":10171, "colors":["pink"]},
+            {"id":10172, "colors":["black"]},
+            {"id":10173, "colors":["white"]},
+            {"id":10174, "colors":["brown"]},
+            {"id":10175, "colors":["purple"]},
+            {"id":10176, "colors":["yellow"]},
+            {"id":10177, "colors":["green"]},
+            {"id":10178, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    }    
 ]
