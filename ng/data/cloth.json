@@ -19006,5 +19006,23 @@
             {"id":11066, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-21"
-    }  
+    },
+    {
+        "groupId":10199, "zone":"face", "category":"faceAccessory", "security":"e0957f18245149d5", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Desert-Bound",
+        "variations":[
+            {"id":10199, "colors":["green"]},
+            {"id":10200, "colors":["blue"]},
+            {"id":10201, "colors":["pink"]},
+            {"id":10202, "colors":["black"]},
+            {"id":10203, "colors":["white"]},
+            {"id":10204, "colors":["brown"]},
+            {"id":10205, "colors":["purple"]},
+            {"id":10206, "colors":["yellow"]},
+            {"id":10207, "colors":["green"]},
+            {"id":10208, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-09"
+    }
 ]
