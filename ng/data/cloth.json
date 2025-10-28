@@ -19240,5 +19240,23 @@
             {"id":11286, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11237, "zone":"feet", "category":"shoes", "security":"d4a5645aa106eabd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11237, "colors":["red"]},
+            {"id":11238, "colors":["blue"]},
+            {"id":11239, "colors":["purple"]},
+            {"id":11240, "colors":["yellow"]},
+            {"id":11241, "colors":["white"]},
+            {"id":11242, "colors":["black"]},
+            {"id":11243, "colors":["green"]},
+            {"id":11244, "colors":["brown"]},
+            {"id":11245, "colors":["pink"]},
+            {"id":11246, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
