@@ -19502,5 +19502,23 @@
             {"id":11096, "colors":["purple"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11097, "zone":"general", "category":"tattoo", "security":"cd50c81ab6d0be41", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blood",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11097, "colors":["red"]},
+            {"id":11098, "colors":["yellow"]},
+            {"id":11099, "colors":["pink"]},
+            {"id":11100, "colors":["black"]},
+            {"id":11101, "colors":["white"]},
+            {"id":11102, "colors":["blue"]},
+            {"id":11103, "colors":["green"]},
+            {"id":11104, "colors":["green"]},
+            {"id":11105, "colors":["orange"]},
+            {"id":11106, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
