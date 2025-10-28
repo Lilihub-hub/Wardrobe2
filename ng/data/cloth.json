@@ -19304,5 +19304,23 @@
             {"id":11216, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11187, "zone":"head", "category":"earring", "security":"3bb6d97115c30908", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11187, "colors":["pink"]},
+            {"id":11188, "colors":["black"]},
+            {"id":11189, "colors":["white"]},
+            {"id":11190, "colors":["red"]},
+            {"id":11191, "colors":["green"]},
+            {"id":11192, "colors":["blue"]},
+            {"id":11193, "colors":["purple"]},
+            {"id":11194, "colors":["yellow"]},
+            {"id":11195, "colors":["brown"]},
+            {"id":11196, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
