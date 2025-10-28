@@ -19168,5 +19168,23 @@
             {"id":11256, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
-    }    
+    },
+        {
+        "groupId":11257, "zone":"torso_waistToKnee", "category":"dress", "security":"34b74c5ef1f66fa0", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Dress",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11257, "colors":["red"]},
+            {"id":11258, "colors":["blue"]},
+            {"id":11259, "colors":["purple"]},
+            {"id":11260, "colors":["yellow"]},
+            {"id":11261, "colors":["white"]},
+            {"id":11262, "colors":["black"]},
+            {"id":11263, "colors":["green"]},
+            {"id":11264, "colors":["brown"]},
+            {"id":11265, "colors":["pink"]},
+            {"id":11266, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    }   
 ]
