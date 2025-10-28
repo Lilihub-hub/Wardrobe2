@@ -19222,5 +19222,23 @@
             {"id":11316, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11277, "zone":"arms", "category":"armAccessory", "security":"fea51ba7025dba63", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoulder pads",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11277, "colors":["grey"]},
+            {"id":11278, "colors":["red"]},
+            {"id":11279, "colors":["orange"]},
+            {"id":11280, "colors":["brown"]},
+            {"id":11281, "colors":["white"]},
+            {"id":11282, "colors":["black"]},
+            {"id":11283, "colors":["green"]},
+            {"id":11284, "colors":["yellow"]},
+            {"id":11285, "colors":["purple"]},
+            {"id":11286, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
