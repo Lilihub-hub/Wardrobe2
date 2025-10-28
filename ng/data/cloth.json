@@ -19358,5 +19358,23 @@
             {"id":11186, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+     {
+        "groupId":11227, "zone":"general", "category":"other", "security":"c7440e6bdc71359f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Cards",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11227, "colors":["purple"]},
+            {"id":11228, "colors":["red"]},
+            {"id":11229, "colors":["purple"]},
+            {"id":11230, "colors":["black"]},
+            {"id":11231, "colors":["green"]},
+            {"id":11232, "colors":["blue"]},
+            {"id":11233, "colors":["pink"]},
+            {"id":11234, "colors":["yellow"]},
+            {"id":11235, "colors":["brown"]},
+            {"id":11236, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
