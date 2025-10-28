@@ -19376,5 +19376,23 @@
             {"id":11236, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11147, "zone":"head", "category":"hat", "security":"cc5f1bb06e6b1201", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Veil",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11147, "colors":["brown"]},
+            {"id":11148, "colors":["green"]},
+            {"id":11149, "colors":["blue"]},
+            {"id":11150, "colors":["white"]},
+            {"id":11151, "colors":["black"]},
+            {"id":11152, "colors":["red"]},
+            {"id":11153, "colors":["pink"]},
+            {"id":11154, "colors":["orange"]},
+            {"id":11155, "colors":["purple"]},
+            {"id":11156, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
