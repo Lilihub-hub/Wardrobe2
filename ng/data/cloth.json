@@ -19412,5 +19412,23 @@
             {"id":11146, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11127, "zone":"face", "category":"neckAccessory", "security":"4cb2cd329121cda2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Collar",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11127, "colors":["brown"]},
+            {"id":11128, "colors":["green"]},
+            {"id":11129, "colors":["blue"]},
+            {"id":11130, "colors":["white"]},
+            {"id":11131, "colors":["black"]},
+            {"id":11132, "colors":["red"]},
+            {"id":11133, "colors":["pink"]},
+            {"id":11134, "colors":["orange"]},
+            {"id":11135, "colors":["purple"]},
+            {"id":11136, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
