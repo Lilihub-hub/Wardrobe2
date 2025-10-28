@@ -19538,5 +19538,23 @@
             {"id":11086, "colors":["purple"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11157, "zone":"general", "category":"other", "security":"f3c80b1db2ccdffd", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Fog",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11157, "colors":["brown"]},
+            {"id":11158, "colors":["green"]},
+            {"id":11159, "colors":["blue"]},
+            {"id":11160, "colors":["white"]},
+            {"id":11161, "colors":["black"]},
+            {"id":11162, "colors":["red"]},
+            {"id":11163, "colors":["pink"]},
+            {"id":11164, "colors":["orange"]},
+            {"id":11165, "colors":["purple"]},
+            {"id":11166, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
