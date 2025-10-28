@@ -19132,5 +19132,23 @@
             {"id":11306, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
-    }   
+    },
+       {
+        "groupId":11287, "zone":"head", "category":"wig", "security":"886dfaa2faa69cbd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11287, "colors":["brown"]},
+            {"id":11288, "colors":["white"]},
+            {"id":11289, "colors":["black"]},
+            {"id":11290, "colors":["blue"]},
+            {"id":11291, "colors":["green"]},
+            {"id":11292, "colors":["purple"]},
+            {"id":11293, "colors":["red"]},
+            {"id":11294, "colors":["yellow"]},
+            {"id":11295, "colors":["orange"]},
+            {"id":11296, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    }
 ]
