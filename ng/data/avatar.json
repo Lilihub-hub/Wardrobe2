@@ -734,6 +734,24 @@
                     {"id":170, "colors":["yellow"]}
                 ], "criteria":{"type":"episode", "info":"15", "text":"Desbloqueado en el episodio 15"},
                 "releaseDate":"2025-05-02"
+            },
+            {
+                "groupId":171, "zone":"face", "category":"mouth", "security":"6699787eb4ebf569",
+                "name":"Mouth",
+                "outfitName":"The Banished Bride",
+                "variations":[
+                    {"id":171, "colors":["black"]},
+                    {"id":172, "colors":["white"]},
+                    {"id":173, "colors":["purple"]},
+                    {"id":174, "colors":["green"]},
+                    {"id":175, "colors":["orange"]},
+                    {"id":176, "colors":["red"]},
+                    {"id":177, "colors":["blue"]},
+                    {"id":178, "colors":["yellow"]},
+                    {"id":179, "colors":["pink"]},
+                    {"id":180, "colors":["brown"]}
+                ], "criteria":null,
+                "releaseDate":"2025-10-28"
             }
         ]
     },
