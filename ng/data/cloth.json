@@ -19152,7 +19152,7 @@
         "releaseDate":"2025-10-28"
     },
        {
-        "groupId":11247, "zone":"torso_waistToKnee", "category":"dress", "security":"e90102c9d171eaca", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11247, "zone":"torso_waistToKnee", "category":"dress", "security":"e90102c9d171eaca", "multiLayered":true, "layerBehavior":"normal",
         "name":"Dress",
         "outfitName":"Maiden of Steel an Silk",
         "variations":[
