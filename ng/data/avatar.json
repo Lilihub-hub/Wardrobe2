@@ -463,7 +463,25 @@
                     {"id":206, "colors":["red"]}
                 ], "criteria":{"type":"pack", "info":"Money Flows", "text":"Desbloqueado en el Pack exclusivo\nMoney Flows"},
                 "releaseDate":"2025-09-03"
-            }
+            },
+            {
+                "groupId":207, "zone":"face", "category":"eyes", "security":"f94c66c2fdb994e0",
+                "name":"Eyes",
+                "outfitName":"The Banished Bride",
+                "variations":[
+                    {"id":207, "colors":["black"]},
+                    {"id":208, "colors":["white"]},
+                    {"id":209, "colors":["purple"]},
+                    {"id":210, "colors":["green"]},
+                    {"id":211, "colors":["orange"]},
+                    {"id":212, "colors":["red"]},
+                    {"id":213, "colors":["blue"]},
+                    {"id":214, "colors":["yellow"]},
+                    {"id":215, "colors":["pink"]},
+                    {"id":216, "colors":["brown"]}
+                ], "criteria":null,
+                "releaseDate":"2025-10-28"
+            }   
         ],
         "mouth":[
             {
