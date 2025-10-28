@@ -19193,15 +19193,15 @@
         "outfitName":"Maiden of Steel an Silk",
         "variations":[
             {"id":11267, "colors":["grey"]},
-            {"id":11258, "colors":["red"]},
-            {"id":11259, "colors":["orange"]},
-            {"id":11260, "colors":["brown"]},
-            {"id":11261, "colors":["white"]},
-            {"id":11262, "colors":["black"]},
-            {"id":11263, "colors":["green"]},
-            {"id":11264, "colors":["yellow"]},
-            {"id":11265, "colors":["purple"]},
-            {"id":11266, "colors":["pink"]}
+            {"id":11268, "colors":["red"]},
+            {"id":11269, "colors":["orange"]},
+            {"id":11270, "colors":["brown"]},
+            {"id":11271, "colors":["white"]},
+            {"id":11272, "colors":["black"]},
+            {"id":11273, "colors":["green"]},
+            {"id":11274, "colors":["yellow"]},
+            {"id":11275, "colors":["purple"]},
+            {"id":11276, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
     }
