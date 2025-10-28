@@ -19204,5 +19204,23 @@
             {"id":11276, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11307, "zone":"arms", "category":"bag", "security":"bf12fb5591fa027b", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Lance",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11307, "colors":["grey"]},
+            {"id":11308, "colors":["red"]},
+            {"id":11309, "colors":["orange"]},
+            {"id":11310, "colors":["brown"]},
+            {"id":11311, "colors":["white"]},
+            {"id":11312, "colors":["black"]},
+            {"id":11313, "colors":["green"]},
+            {"id":11314, "colors":["yellow"]},
+            {"id":11315, "colors":["purple"]},
+            {"id":11316, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
