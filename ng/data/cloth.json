@@ -19394,5 +19394,23 @@
             {"id":11156, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11137, "zone":"head", "category":"wig", "security":"b26631b946a10366", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11137, "colors":["brown"]},
+            {"id":11138, "colors":["white"]},
+            {"id":11139, "colors":["black"]},
+            {"id":11140, "colors":["blue"]},
+            {"id":11141, "colors":["green"]},
+            {"id":11142, "colors":["purple"]},
+            {"id":11143, "colors":["red"]},
+            {"id":11144, "colors":["yellow"]},
+            {"id":11145, "colors":["orange"]},
+            {"id":11146, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
