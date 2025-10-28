@@ -19276,5 +19276,33 @@
             {"id":11226, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11197, "zone":"head", "category":"wig", "security":"d91cb3a73551ecad", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11197, "colors":["brown"]},
+            {"id":11198, "colors":["white"]},
+            {"id":11199, "colors":["black"]},
+            {"id":11200, "colors":["blue"]},
+            {"id":11201, "colors":["green"]},
+            {"id":11202, "colors":["purple"]},
+            {"id":11203, "colors":["red"]},
+            {"id":11204, "colors":["yellow"]},
+            {"id":11205, "colors":["orange"]},
+            {"id":11206, "colors":["pink"]},
+            {"id":11207, "colors":["brown"]},
+            {"id":11208, "colors":["white"]},
+            {"id":11209, "colors":["black"]},
+            {"id":11210, "colors":["blue"]},
+            {"id":11211, "colors":["green"]},
+            {"id":11212, "colors":["purple"]},
+            {"id":11213, "colors":["red"]},
+            {"id":11214, "colors":["yellow"]},
+            {"id":11215, "colors":["orange"]},
+            {"id":11216, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
