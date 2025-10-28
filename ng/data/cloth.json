@@ -19520,5 +19520,23 @@
             {"id":11106, "colors":["purple"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11077, "zone":"general", "category":"other", "security":"7817c9d858606712", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Blood",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11077, "colors":["red"]},
+            {"id":11078, "colors":["yellow"]},
+            {"id":11079, "colors":["pink"]},
+            {"id":11080, "colors":["black"]},
+            {"id":11081, "colors":["white"]},
+            {"id":11082, "colors":["blue"]},
+            {"id":11083, "colors":["green"]},
+            {"id":11084, "colors":["green"]},
+            {"id":11085, "colors":["orange"]},
+            {"id":11086, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
