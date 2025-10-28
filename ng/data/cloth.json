@@ -19322,5 +19322,22 @@
             {"id":11196, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        "groupId":11167, "zone":"torso", "category":"top", "security":"da8ee6c5b9a5d08a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11167, "colors":["brown"]},
+            {"id":11168, "colors":["black"]},
+            {"id":11169, "colors":["white"]},
+            {"id":11170, "colors":["red"]},
+            {"id":11171, "colors":["green"]},
+            {"id":11172, "colors":["blue"]},
+            {"id":11173, "colors":["purple"]},
+            {"id":11174, "colors":["yellow"]},
+            {"id":11175, "colors":["brown"]},
+            {"id":11176, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
