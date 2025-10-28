@@ -19260,7 +19260,7 @@
         "releaseDate":"2025-10-28"
     },
         {
-        "groupId":11217, "zone":"head", "category":"hat", "security":"d82a3d9fcab00808", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11217, "zone":"head", "category":"hat", "security":"d82a3d9fcab00808", "multiLayered":true, "layerBehavior":"normal",
         "name":"Scarf",
         "outfitName":"Oracle's Whisper",
         "variations":[
