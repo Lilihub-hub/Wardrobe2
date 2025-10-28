@@ -19340,5 +19340,23 @@
             {"id":11176, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+     {
+        "groupId":11177, "zone":"waistToKnee", "category":"skirt", "security":"478f6bea4f097b0a", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11177, "colors":["brown"]},
+            {"id":11178, "colors":["black"]},
+            {"id":11179, "colors":["white"]},
+            {"id":11180, "colors":["red"]},
+            {"id":11181, "colors":["green"]},
+            {"id":11182, "colors":["blue"]},
+            {"id":11183, "colors":["purple"]},
+            {"id":11184, "colors":["yellow"]},
+            {"id":11185, "colors":["brown"]},
+            {"id":11186, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
