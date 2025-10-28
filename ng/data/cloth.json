@@ -19448,5 +19448,23 @@
             {"id":11116, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11117, "zone":"waistToKnee", "category":"skirt", "security":"83cd00c986606da1", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11117, "colors":["brown"]},
+            {"id":11118, "colors":["green"]},
+            {"id":11119, "colors":["blue"]},
+            {"id":11120, "colors":["white"]},
+            {"id":11121, "colors":["black"]},
+            {"id":11122, "colors":["red"]},
+            {"id":11123, "colors":["pink"]},
+            {"id":11124, "colors":["orange"]},
+            {"id":11125, "colors":["purple"]},
+            {"id":11126, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
