@@ -19114,5 +19114,23 @@
             {"id":10178, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-10-09"
-    }    
+    },
+       {
+        "groupId":11297, "zone":"head", "category":"hat", "security":"ec3ba1505f283d3c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tiara",
+        "outfitName":"Maiden of Steel an Silk",
+        "variations":[
+            {"id":11297, "colors":["blue"]},
+            {"id":11298, "colors":["red"]},
+            {"id":11299, "colors":["purple"]},
+            {"id":11300, "colors":["yellow"]},
+            {"id":11301, "colors":["black"]},
+            {"id":11302, "colors":["green"]},
+            {"id":11303, "colors":["orange"]},
+            {"id":11304, "colors":["yellow"]},
+            {"id":11305, "colors":["pink"]},
+            {"id":11306, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
+    }   
 ]
