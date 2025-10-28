@@ -19323,6 +19323,7 @@
         ], "criteria":null,
         "releaseDate":"2025-10-28"
     },
+     {
         "groupId":11167, "zone":"torso", "category":"top", "security":"da8ee6c5b9a5d08a", "multiLayered":true, "layerBehavior":"normal",
         "name":"Shirt",
         "outfitName":"Oracle's Whisper",
