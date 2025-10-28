@@ -19466,5 +19466,23 @@
             {"id":11126, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11067, "zone":"general", "category":"skin", "security":"204b24e896b59fd2", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skin",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11067, "colors":["blue"]},
+            {"id":11068, "colors":["pink"]},
+            {"id":11069, "colors":["red"]},
+            {"id":11070, "colors":["yellow"]},
+            {"id":11071, "colors":["white"]},
+            {"id":11072, "colors":["orange"]},
+            {"id":11073, "colors":["green"]},
+            {"id":11074, "colors":["purple"]},
+            {"id":11075, "colors":["blue"]},
+            {"id":11076, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
