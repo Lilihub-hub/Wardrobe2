@@ -19224,7 +19224,7 @@
         "releaseDate":"2025-10-28"
     },
         {
-        "groupId":11277, "zone":"arms", "category":"armAccessory", "security":"fea51ba7025dba63", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11277, "zone":"arms", "category":"armAccessory", "security":"fea51ba7025dba63", "multiLayered":true, "layerBehavior":"normal",
         "name":"Shoulder pads",
         "outfitName":"Maiden of Steel an Silk",
         "variations":[
