@@ -19258,5 +19258,23 @@
             {"id":11246, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11217, "zone":"head", "category":"hat", "security":"d82a3d9fcab00808", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Scarf",
+        "outfitName":"Oracle's Whisper",
+        "variations":[
+            {"id":11217, "colors":["green"]},
+            {"id":11218, "colors":["red"]},
+            {"id":11219, "colors":["white"]},
+            {"id":11220, "colors":["black"]},
+            {"id":11221, "colors":["green"]},
+            {"id":11222, "colors":["blue"]},
+            {"id":11223, "colors":["purple"]},
+            {"id":11224, "colors":["yellow"]},
+            {"id":11225, "colors":["brown"]},
+            {"id":11226, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
