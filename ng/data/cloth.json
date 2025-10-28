@@ -19430,5 +19430,23 @@
             {"id":11136, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+    {
+        "groupId":11107, "zone":"torso", "category":"top", "security":"12249629a8dec8ed", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"The Banished Bride",
+        "variations":[
+            {"id":11107, "colors":["brown"]},
+            {"id":11108, "colors":["green"]},
+            {"id":11109, "colors":["blue"]},
+            {"id":11110, "colors":["white"]},
+            {"id":11111, "colors":["black"]},
+            {"id":11112, "colors":["red"]},
+            {"id":11113, "colors":["pink"]},
+            {"id":11114, "colors":["orange"]},
+            {"id":11115, "colors":["purple"]},
+            {"id":11116, "colors":["brown"]}
+        ], "criteria":null,
+        "releaseDate":"2025-10-28"
     }
 ]
