@@ -19306,7 +19306,7 @@
         "releaseDate":"2025-10-28"
     },
     {
-        "groupId":11187, "zone":"head", "category":"earring", "security":"3bb6d97115c30908", "multiLayered":false, "layerBehavior":"normal",
+        "groupId":11187, "zone":"head", "category":"earring", "security":"3bb6d97115c30908", "multiLayered":true, "layerBehavior":"backInFront",
         "name":"Earrings",
         "outfitName":"Oracle's Whisper",
         "variations":[
