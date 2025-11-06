@@ -19674,5 +19674,23 @@
             {"id":11356, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11357, "zone":"arms", "category":"bag", "security":"9e64b6a48d40885e", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Latte",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11357, "colors":["brown"]},
+            {"id":11358, "colors":["pink"]},
+            {"id":11359, "colors":["grey"]},
+            {"id":11360, "colors":["purple"]},
+            {"id":11361, "colors":["green"]},
+            {"id":11362, "colors":["white"]},
+            {"id":11363, "colors":["blue"]},
+            {"id":11364, "colors":["black"]},
+            {"id":11365, "colors":["yellow"]},
+            {"id":11366, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
