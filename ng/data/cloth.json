@@ -19556,5 +19556,23 @@
             {"id":11166, "colors":["brown"]}
         ], "criteria":null,
         "releaseDate":"2025-10-28"
+    },
+        {
+        "groupId":11417, "zone":"head", "category":"hat", "security":"73fd4f63db13db10", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Hat",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11417, "colors":["orange"]},
+            {"id":11418, "colors":["pink"]},
+            {"id":11419, "colors":["grey"]},
+            {"id":11420, "colors":["purple"]},
+            {"id":11421, "colors":["green"]},
+            {"id":11422, "colors":["white"]},
+            {"id":11423, "colors":["blue"]},
+            {"id":11424, "colors":["black"]},
+            {"id":11425, "colors":["brown"]},
+            {"id":11426, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
