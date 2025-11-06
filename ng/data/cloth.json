@@ -19710,5 +19710,23 @@
             {"id":11376, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11327, "zone":"waistToKnee", "category":"skirt", "security":"f87baee2433d41a3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11327, "colors":["blue"]},
+            {"id":11328, "colors":["green"]},
+            {"id":11329, "colors":["pink"]},
+            {"id":11330, "colors":["grey"]},
+            {"id":11331, "colors":["black"]},
+            {"id":11332, "colors":["red"]},
+            {"id":11333, "colors":["browm"]},
+            {"id":11334, "colors":["green"]},
+            {"id":11335, "colors":["purple"]},
+            {"id":11336, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
