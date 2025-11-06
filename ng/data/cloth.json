@@ -19656,5 +19656,23 @@
             {"id":11346, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11347, "zone":"torso", "category":"jacket", "security":"046e9c1f4a06bb97", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Coat",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11347, "colors":["brown"]},
+            {"id":11348, "colors":["pink"]},
+            {"id":11349, "colors":["grey"]},
+            {"id":11350, "colors":["purple"]},
+            {"id":11351, "colors":["green"]},
+            {"id":11352, "colors":["white"]},
+            {"id":11353, "colors":["blue"]},
+            {"id":11354, "colors":["black"]},
+            {"id":11355, "colors":["brown"]},
+            {"id":11356, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
