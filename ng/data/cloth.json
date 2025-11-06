@@ -19574,5 +19574,33 @@
             {"id":11426, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+   { 
+       "groupId":11397, "zone":"head", "category":"wig", "security":"d6afa559d8612744", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11397, "colors":["brown"]},
+            {"id":11398, "colors":["white"]},
+            {"id":11399, "colors":["black"]},
+            {"id":11400, "colors":["blue"]},
+            {"id":11401, "colors":["green"]},
+            {"id":11402, "colors":["purple"]},
+            {"id":11403, "colors":["red"]},
+            {"id":11404, "colors":["yellow"]},
+            {"id":11405, "colors":["orange"]},
+            {"id":11406, "colors":["pink"]},
+            {"id":11407, "colors":["brown"]},
+            {"id":11408, "colors":["white"]},
+            {"id":11409, "colors":["black"]},
+            {"id":11410, "colors":["blue"]},
+            {"id":11411, "colors":["green"]},
+            {"id":11412, "colors":["purple"]},
+            {"id":11413, "colors":["red"]},
+            {"id":11414, "colors":["yellow"]},
+            {"id":11415, "colors":["orange"]},
+            {"id":11416, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
