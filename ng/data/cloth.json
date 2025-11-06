@@ -19692,5 +19692,23 @@
             {"id":11366, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11367, "zone":"arms", "category":"bag", "security":"00dced99839d3e6c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11367, "colors":["grey"]},
+            {"id":11368, "colors":["white"]},
+            {"id":11369, "colors":["brown"]},
+            {"id":11370, "colors":["blue"]},
+            {"id":11371, "colors":["brown"]},
+            {"id":11372, "colors":["pink"]},
+            {"id":11373, "colors":["red"]},
+            {"id":11374, "colors":["purple"]},
+            {"id":11375, "colors":["orange"]},
+            {"id":11376, "colors":["black"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
