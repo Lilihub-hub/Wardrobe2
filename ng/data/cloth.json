@@ -19728,5 +19728,23 @@
             {"id":11336, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11317, "zone":"feet", "category":"shoes", "security":"01b4b5684ef3c2d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Boots",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11317, "colors":["brown"]},
+            {"id":11318, "colors":["pink"]},
+            {"id":11319, "colors":["grey"]},
+            {"id":11320, "colors":["purple"]},
+            {"id":11321, "colors":["green"]},
+            {"id":11322, "colors":["white"]},
+            {"id":11323, "colors":["blue"]},
+            {"id":11324, "colors":["black"]},
+            {"id":11325, "colors":["brown"]},
+            {"id":11326, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
