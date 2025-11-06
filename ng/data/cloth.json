@@ -19638,5 +19638,23 @@
             {"id":11386, "colors":["black"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11337, "zone":"torso", "category":"top", "security":"242aeb76dff82aa3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Sweater",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11337, "colors":["orange"]},
+            {"id":11338, "colors":["pink"]},
+            {"id":11339, "colors":["white"]},
+            {"id":11340, "colors":["purple"]},
+            {"id":11341, "colors":["green"]},
+            {"id":11342, "colors":["grey"]},
+            {"id":11343, "colors":["blue"]},
+            {"id":11344, "colors":["black"]},
+            {"id":11345, "colors":["brown"]},
+            {"id":11346, "colors":["red"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
