@@ -19602,5 +19602,23 @@
             {"id":11416, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+        {
+        "groupId":11387, "zone":"head", "category":"earring", "security":"823662037c7d6293", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Earrings",
+        "outfitName":"Autumn Spiced Outfit",
+        "variations":[
+            {"id":11387, "colors":["red"]},
+            {"id":11388, "colors":["white"]},
+            {"id":11389, "colors":["pink"]},
+            {"id":11390, "colors":["blue"]},
+            {"id":11391, "colors":["green"]},
+            {"id":11392, "colors":["grey"]},
+            {"id":11393, "colors":["orange"]},
+            {"id":11394, "colors":["black"]},
+            {"id":11395, "colors":["blue"]},
+            {"id":11396, "colors":["purple"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-06"
     }
 ]
