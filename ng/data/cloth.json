@@ -19855,5 +19855,23 @@
             {"id":11587, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11497, "zone":"arms", "category":"armAccessory", "security":"817a9cf36a12d367", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Accessories",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11497, "colors":["blue"]},
+            {"id":11498, "colors":["black"]},
+            {"id":11499, "colors":["purple"]},
+            {"id":11500, "colors":["red"]},
+            {"id":11501, "colors":["orange"]},
+            {"id":11502, "colors":["pink"]},
+            {"id":11503, "colors":["white"]},
+            {"id":11504, "colors":["brown"]},
+            {"id":11505, "colors":["green"]},
+            {"id":11506, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
