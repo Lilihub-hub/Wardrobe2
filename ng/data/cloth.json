@@ -19765,5 +19765,23 @@
             {"id":11577, "colors":["pink"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11537, "zone":"face", "category":"neckAccessory", "security":"07c43b0697dbf8d7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Tie",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11537, "colors":["blue"]},
+            {"id":11538, "colors":["black"]},
+            {"id":11539, "colors":["purple"]},
+            {"id":11540, "colors":["red"]},
+            {"id":11541, "colors":["orange"]},
+            {"id":11542, "colors":["pink"]},
+            {"id":11543, "colors":["white"]},
+            {"id":11544, "colors":["brown"]},
+            {"id":11545, "colors":["green"]},
+            {"id":11546, "colors":["blue"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
