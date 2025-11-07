@@ -19891,5 +19891,23 @@
             {"id":11536, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11507, "zone":"feet", "category":"shoes", "security":"8dc4058927aa4733", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11507, "colors":["black"]},
+            {"id":11508, "colors":["white"]},
+            {"id":11509, "colors":["red"]},
+            {"id":11510, "colors":["green"]},
+            {"id":11511, "colors":["blue"]},
+            {"id":11512, "colors":["purple"]},
+            {"id":11513, "colors":["green"]},
+            {"id":11514, "colors":["pink"]},
+            {"id":11515, "colors":["brown"]},
+            {"id":11516, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
