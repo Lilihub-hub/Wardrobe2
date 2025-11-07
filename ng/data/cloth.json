@@ -19783,5 +19783,23 @@
             {"id":11546, "colors":["blue"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11517, "zone":"torso", "category":"top", "security":"580e95bbad8391c4", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shirt",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11517, "colors":["black"]},
+            {"id":11518, "colors":["white"]},
+            {"id":11519, "colors":["red"]},
+            {"id":11520, "colors":["green"]},
+            {"id":11521, "colors":["blue"]},
+            {"id":11522, "colors":["purple"]},
+            {"id":11523, "colors":["green"]},
+            {"id":11524, "colors":["pink"]},
+            {"id":11525, "colors":["brown"]},
+            {"id":11526, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
