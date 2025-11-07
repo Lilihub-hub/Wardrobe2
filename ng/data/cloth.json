@@ -19746,5 +19746,24 @@
             {"id":11326, "colors":["red"]}
         ], "criteria":null,
         "releaseDate":"2025-11-06"
+    },
+   { 
+       "groupId":11567, "zone":"head", "category":"wig", "security":"329e49996baf01e6", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Wig",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11567, "colors":["brown"]},
+            {"id":11568, "colors":["brown"]},
+            {"id":11569, "colors":["white"]},
+            {"id":11570, "colors":["black"]},
+            {"id":11571, "colors":["blue"]},
+            {"id":11572, "colors":["green"]},
+            {"id":11573, "colors":["purple"]},
+            {"id":11574, "colors":["red"]},
+            {"id":11575, "colors":["yellow"]},
+            {"id":11576, "colors":["orange"]},
+            {"id":11577, "colors":["pink"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
