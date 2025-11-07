@@ -19927,5 +19927,23 @@
             {"id":11496, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+   { 
+       "groupId":10977, "zone":"head", "category":"hat", "security":"810de8fc9a7511e9", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Bow",
+        "outfitName":"Cheerful Hope",
+        "variations":[
+            {"id":10977, "colors":["white"]},
+            {"id":10978, "colors":["black"]},
+            {"id":10979, "colors":["yellow"]},
+            {"id":10980, "colors":["blue"]},
+            {"id":10981, "colors":["brown"]},
+            {"id":10982, "colors":["orange"]},
+            {"id":10983, "colors":["red"]},
+            {"id":10984, "colors":["pink"]},
+            {"id":10985, "colors":["purple"]},
+            {"id":10986, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
