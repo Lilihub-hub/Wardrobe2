@@ -19819,5 +19819,23 @@
             {"id":11556, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11557, "zone":"torso", "category":"jacket", "security":"192b48828262803d", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Jacket",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11557, "colors":["black"]},
+            {"id":11558, "colors":["white"]},
+            {"id":11559, "colors":["red"]},
+            {"id":11560, "colors":["green"]},
+            {"id":11561, "colors":["blue"]},
+            {"id":11562, "colors":["purple"]},
+            {"id":11563, "colors":["green"]},
+            {"id":11564, "colors":["pink"]},
+            {"id":11565, "colors":["brown"]},
+            {"id":11566, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
