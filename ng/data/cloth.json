@@ -19945,5 +19945,23 @@
             {"id":10986, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+   { 
+       "groupId":10937, "zone":"torso", "category":"top", "security":"88f19e3812842ca7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Cheerful Hope",
+        "variations":[
+            {"id":10937, "colors":["white"]},
+            {"id":10938, "colors":["black"]},
+            {"id":10939, "colors":["yellow"]},
+            {"id":10940, "colors":["blue"]},
+            {"id":10941, "colors":["brown"]},
+            {"id":10942, "colors":["orange"]},
+            {"id":10943, "colors":["red"]},
+            {"id":10944, "colors":["pink"]},
+            {"id":10945, "colors":["purple"]},
+            {"id":10946, "colors":["green"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
