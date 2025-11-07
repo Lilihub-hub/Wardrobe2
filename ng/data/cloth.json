@@ -19801,5 +19801,23 @@
             {"id":11526, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11547, "zone":"torso", "category":"jacket", "security":"65f38071fabab964", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Vest",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11547, "colors":["black"]},
+            {"id":11548, "colors":["white"]},
+            {"id":11549, "colors":["red"]},
+            {"id":11550, "colors":["green"]},
+            {"id":11551, "colors":["blue"]},
+            {"id":11552, "colors":["purple"]},
+            {"id":11553, "colors":["green"]},
+            {"id":11554, "colors":["pink"]},
+            {"id":11555, "colors":["brown"]},
+            {"id":11556, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
