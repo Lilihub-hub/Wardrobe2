@@ -19873,5 +19873,23 @@
             {"id":11506, "colors":["green"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11527, "zone":"waistToKnee", "category":"pants", "security":"0119a22096437434", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Pants",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11527, "colors":["black"]},
+            {"id":11528, "colors":["white"]},
+            {"id":11529, "colors":["red"]},
+            {"id":11530, "colors":["green"]},
+            {"id":11531, "colors":["blue"]},
+            {"id":11532, "colors":["purple"]},
+            {"id":11533, "colors":["green"]},
+            {"id":11534, "colors":["pink"]},
+            {"id":11535, "colors":["brown"]},
+            {"id":11536, "colors":["grey"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
