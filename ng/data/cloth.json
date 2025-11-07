@@ -19837,5 +19837,23 @@
             {"id":11566, "colors":["grey"]}
         ], "criteria":null,
         "releaseDate":"2025-11-07"
+    },
+        {
+        "groupId":11578, "zone":"arms", "category":"bag", "security":"5bd871c3d8981ce3", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Glass",
+        "outfitName":"Jason's vibe",
+        "variations":[
+            {"id":11578, "colors":["red"]},
+            {"id":11579, "colors":["yellow"]},
+            {"id":11580, "colors":["pink"]},
+            {"id":11581, "colors":["green"]},
+            {"id":11582, "colors":["purple"]},
+            {"id":11583, "colors":["blue"]},
+            {"id":11584, "colors":["orange"]},
+            {"id":11585, "colors":["black"]},
+            {"id":11586, "colors":["red"]},
+            {"id":11587, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2025-11-07"
     }
 ]
